@@ -34,9 +34,9 @@ I'm currently finishing **song_dependency**. It's a regression project based on 
 
 I would like to learn **R** language and more vizualizations, analysis and modeling libraries. My goal is to be the best at what I want to do! 💪
 
-## My hobby? 
+## My interests and hobby? 
 
-good book 📖 | good food 🍕 | good training 🏋️‍♂️
+good book 📖 | good food 🍕 | good training 🏋️‍♂️ | history of II Wordl War and Warsaw Uprising 🪖
 
 <!--
 **slatkowski/slatkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
