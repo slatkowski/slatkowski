@@ -24,6 +24,12 @@ My goal for the near future? 🎯 **I would like to find my first job as Junio D
 
 I'm currently finishing **song_dependency**. It's a regression project based on songs features and predicting their energy. 🎶
 
+## My codewars:
+
+<div id="header" align="left">
+<img src="https://www.codewars.com/users/slatkowski/badges/large"/>
+  </div>
+
 ## My plans for further development of my skills? 🤔
 
 I would like to learn **R** language and more vizualizations, analysis and modeling libraries. My goal is to be the best at what I want to do! 💪
